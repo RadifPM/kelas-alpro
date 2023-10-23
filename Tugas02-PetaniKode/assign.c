@@ -1,6 +1,0 @@
-do{
-
-}while (/* condition */)
-{
-    /* code */
-}
