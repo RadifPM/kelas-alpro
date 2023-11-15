@@ -1,13 +1,9 @@
 #include <stdio.h>
-
 void main(){
-
     char grade;
-
     printf("Inputkan grade: ");
     scanf("%c", &grade);
-
-    switch (toupper(grade)){
+    switch (grade){
         case 'A':
             printf("Luar biasa!\n");
             break;
@@ -19,6 +15,8 @@ void main(){
             printf("Anda lulus\n");
             break;
         case 'E':
+            printf("Apa aja dah\n");
+            break; 
         case 'F':
             printf("Anda remidi\n");
             break;
@@ -26,3 +24,5 @@ void main(){
             printf("Grade Salah!\n");
     }
 }
+
+a = pow(vt-v0/t1+t2,0.5);
