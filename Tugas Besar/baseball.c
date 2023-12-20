@@ -63,7 +63,7 @@ propagate()
 		v_y[i+1] = v_y[i] - a_drag(v) * v * v_y[i] * dt - g * dt;
 		++i;
 	}
-
+	fclose(fptr);
 	return;
 }
 

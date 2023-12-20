@@ -1,0 +1,2 @@
+Waktu dibutuhkan untuk menjalankan program binary search 0.000003 detik
+Waktu dibutuhkan untuk menjalankan program sequential search 0.000157 detik
